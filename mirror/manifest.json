@@ -1,0 +1,982 @@
+{
+  "source": "https://es-clinic.ru/",
+  "capturedAt": "2026-09-15T15:58:15.962Z",
+  "assetCount": 139,
+  "totalBytes": 224179421,
+  "failures": [],
+  "assets": [
+    {
+      "url": "https://static.tildacdn.com/tild3337-6366-4065-b662-353163373666/desk.png",
+      "local": "/mirror/1d6c2900267b6b8d.png",
+      "fileName": "1d6c2900267b6b8d.png",
+      "contentType": "image/png",
+      "bytes": 1464286
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3633-3265-4632-a636-633165316136/favicon.ico",
+      "local": "/mirror/9c4d94568eaf2985.ico",
+      "fileName": "9c4d94568eaf2985.ico",
+      "contentType": "image/vnd.microsoft.icon",
+      "bytes": 5430
+    },
+    {
+      "url": "https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js",
+      "local": "/mirror/ba24e7d54bf75f71.js",
+      "fileName": "ba24e7d54bf75f71.js",
+      "contentType": "application/javascript",
+      "bytes": 1918
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-grid-3.0.min.css",
+      "local": "/mirror/55fa348d4437c18e.css",
+      "fileName": "55fa348d4437c18e.css",
+      "contentType": "text/css",
+      "bytes": 4514
+    },
+    {
+      "url": "https://static.tildacdn.com/ws/project26421906/tilda-blocks-page147033646.min.css?t=1788788938",
+      "local": "/mirror/3ce777ceccd9cb6f.css",
+      "fileName": "3ce777ceccd9cb6f.css",
+      "contentType": "text/css",
+      "bytes": 14667
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-animation-2.0.min.css",
+      "local": "/mirror/8e325ae34bc30a89.css",
+      "fileName": "8e325ae34bc30a89.css",
+      "contentType": "text/css",
+      "bytes": 11520
+    },
+    {
+      "url": "https://static.tildacdn.com/css/tilda-forms-1.0.min.css",
+      "local": "/mirror/a1f4a83f3637f540.css",
+      "fileName": "a1f4a83f3637f540.css",
+      "contentType": "text/css",
+      "bytes": 56904
+    },
+    {
+      "url": "https://static.tildacdn.com/css/fonts-tildasans.css",
+      "local": "/mirror/0168d742402e0ab9.css",
+      "fileName": "0168d742402e0ab9.css",
+      "contentType": "text/css",
+      "bytes": 3606
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js",
+      "local": "/mirror/19ff6da6807b47ad.js",
+      "fileName": "19ff6da6807b47ad.js",
+      "contentType": "application/javascript; charset=utf8",
+      "bytes": 185641
+    },
+    {
+      "url": "https://static.tildacdn.com/js/jquery-1.10.2.min.js",
+      "local": "/mirror/0f598fdea2aba770.js",
+      "fileName": "0f598fdea2aba770.js",
+      "contentType": "application/javascript; charset=utf8",
+      "bytes": 93064
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-scripts-3.0.min.js",
+      "local": "/mirror/bbad1345a3a8ea45.js",
+      "fileName": "bbad1345a3a8ea45.js",
+      "contentType": "application/javascript; charset=utf8",
+      "bytes": 23374
+    },
+    {
+      "url": "https://static.tildacdn.com/ws/project26421906/tilda-blocks-page147033646.min.js?t=1788788938",
+      "local": "/mirror/94c30ebf0d92c2a9.js",
+      "fileName": "94c30ebf0d92c2a9.js",
+      "contentType": "application/javascript",
+      "bytes": 883
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js",
+      "local": "/mirror/8d30e679023002ae.js",
+      "fileName": "8d30e679023002ae.js",
+      "contentType": "application/javascript",
+      "bytes": 20315
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-animation-2.0.min.js",
+      "local": "/mirror/e4067d844df37e73.js",
+      "fileName": "e4067d844df37e73.js",
+      "contentType": "application/javascript",
+      "bytes": 104290
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-forms-1.0.min.js",
+      "local": "/mirror/e3f49c2a4a0c2d93.js",
+      "fileName": "e3f49c2a4a0c2d93.js",
+      "contentType": "application/javascript; charset=utf8",
+      "bytes": 101695
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-events-1.0.min.js",
+      "local": "/mirror/051c5be8fb95f201.js",
+      "fileName": "051c5be8fb95f201.js",
+      "contentType": "application/javascript; charset=utf8",
+      "bytes": 13439
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6362-3235-4362-b936-653563663464/Aeroport.woff",
+      "local": "/mirror/efe9332aa5937166.woff",
+      "fileName": "efe9332aa5937166.woff",
+      "contentType": "font/woff",
+      "bytes": 42468
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3761-3934-4964-a330-366335636636/germesregular.woff",
+      "local": "/mirror/d87ad291362ed023.woff",
+      "fileName": "d87ad291362ed023.woff",
+      "contentType": "font/woff",
+      "bytes": 54056
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6438-6130-4563-a332-633465626239/Rectangle_1006747.png",
+      "local": "/mirror/91304f531ab30d8d.png",
+      "fileName": "91304f531ab30d8d.png",
+      "contentType": "image/png",
+      "bytes": 1392946
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3035-6135-4032-a462-313766623739/1400.png",
+      "local": "/mirror/aef4161956aef558.png",
+      "fileName": "aef4161956aef558.png",
+      "contentType": "image/png",
+      "bytes": 1855513
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3735-6163-4133-a133-393065383630/320.png",
+      "local": "/mirror/815240a538b9a914.png",
+      "fileName": "815240a538b9a914.png",
+      "contentType": "image/png",
+      "bytes": 662989
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6663-6465-4737-a263-613632346235/HelveticaNeueCyr-Rom.woff",
+      "local": "/mirror/2a664c3e83eb3d04.woff",
+      "fileName": "2a664c3e83eb3d04.woff",
+      "contentType": "font/woff",
+      "bytes": 15024
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3432-3337-4034-a165-383134643730/Rectangle_240654594_.png",
+      "local": "/mirror/43331ccb41f76bd4.png",
+      "fileName": "43331ccb41f76bd4.png",
+      "contentType": "image/png",
+      "bytes": 261361
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3334-6337-4135-b461-386135656332/Rectangle_240654593_.png",
+      "local": "/mirror/6f3be1fad456a470.png",
+      "fileName": "6f3be1fad456a470.png",
+      "contentType": "image/png",
+      "bytes": 247870
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3537-3039-4364-a465-316662386130/Rectangle_240654593_.png",
+      "local": "/mirror/2286131a81793d97.png",
+      "fileName": "2286131a81793d97.png",
+      "contentType": "image/png",
+      "bytes": 252509
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3933-3238-4534-b065-383934663562/Rectangle_240654594_.png",
+      "local": "/mirror/a90c1337cb8e1001.png",
+      "fileName": "a90c1337cb8e1001.png",
+      "contentType": "image/png",
+      "bytes": 238223
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3932-6661-4134-a239-626562633537/photo_2026-07-14_17-.jpg",
+      "local": "/mirror/2e103fccf460ed2a.jpg",
+      "fileName": "2e103fccf460ed2a.jpg",
+      "contentType": "image/jpeg",
+      "bytes": 86530
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%94%D0%B0%D1%80%D1%8C%D1%8F%20%D0%A2%D0%B8%D1%88%D0%B8%D0%BD%D0%B0%20%D1%80%D0%B8%D0%BB%D1%81%20%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8-2%201207.mp4",
+      "local": "/mirror/87608b9a4f858a61.mp4",
+      "fileName": "87608b9a4f858a61.mp4",
+      "contentType": "video/mp4",
+      "bytes": 10121997
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%20%D0%A4%D1%80%D0%BE%D0%BB%D0%BE%D0%B2%20%D1%80%D0%B8%D0%BB%D1%81%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.mp4",
+      "local": "/mirror/ff8c8d083b7dc4ed.mp4",
+      "fileName": "ff8c8d083b7dc4ed.mp4",
+      "contentType": "video/mp4",
+      "bytes": 11095826
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%93%D0%BB%D0%B5%D0%B1%20%D1%80%D0%B8%D0%BB%D1%81%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.mp4",
+      "local": "/mirror/5bfb594097c31ce1.mp4",
+      "fileName": "5bfb594097c31ce1.mp4",
+      "contentType": "video/mp4",
+      "bytes": 17535670
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%20%D1%80%D0%B8%D0%BB%D1%81%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.mp4",
+      "local": "/mirror/b0ed2cc4b4dacb8e.mp4",
+      "fileName": "b0ed2cc4b4dacb8e.mp4",
+      "contentType": "video/mp4",
+      "bytes": 13496816
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%A1%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%20%D1%80%D0%B8%D0%BB%D1%81%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.mp4",
+      "local": "/mirror/43779e9700caa6e1.mp4",
+      "fileName": "43779e9700caa6e1.mp4",
+      "contentType": "video/mp4",
+      "bytes": 26806238
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%A8%D0%B8%D1%80%D1%88%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%20%D1%80%D0%B8%D0%BB%D1%81%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.mp4",
+      "local": "/mirror/c21d9d5e137a6fdb.mp4",
+      "fileName": "c21d9d5e137a6fdb.mp4",
+      "contentType": "video/mp4",
+      "bytes": 12705966
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D0%B0%20%D1%80%D0%B8%D0%BB%D1%81%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.mp4",
+      "local": "/mirror/0c000e6746fabf89.mp4",
+      "fileName": "0c000e6746fabf89.mp4",
+      "contentType": "video/mp4",
+      "bytes": 15844914
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%9A%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B0.mp4",
+      "local": "/mirror/4d67fefd776ff93e.mp4",
+      "fileName": "4d67fefd776ff93e.mp4",
+      "contentType": "video/mp4",
+      "bytes": 18993055
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%A8%D0%B0%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0%20%D1%80%D0%B8%D0%BB%D1%81.mp4",
+      "local": "/mirror/fb1ead99bda322b0.mp4",
+      "fileName": "fb1ead99bda322b0.mp4",
+      "contentType": "video/mp4",
+      "bytes": 10868283
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%93%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0%20%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D0%B0%20%D1%80%D0%B8%D0%BB%D1%81%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.mp4",
+      "local": "/mirror/740b0decd35d41e8.mp4",
+      "fileName": "740b0decd35d41e8.mp4",
+      "contentType": "video/mp4",
+      "bytes": 18872198
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%20%D0%A8%D1%83%D0%B1%D0%B8%D0%BD%D0%B0.mp4",
+      "local": "/mirror/a18e677dfebab43b.mp4",
+      "fileName": "a18e677dfebab43b.mp4",
+      "contentType": "video/mp4",
+      "bytes": 22572911
+    },
+    {
+      "url": "https://16f7e38c-45e8-4a0d-98d3-07cdb0394da5.selstorage.ru/web-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%20%D1%80%D0%B8%D0%BB%D1%81%20%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.mp4",
+      "local": "/mirror/766135fd5d6e6619.mp4",
+      "fileName": "766135fd5d6e6619.mp4",
+      "contentType": "video/mp4",
+      "bytes": 14962938
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3861-6230-4461-b564-313135363930/2.png",
+      "local": "/mirror/38b6f08be04b05d5.png",
+      "fileName": "38b6f08be04b05d5.png",
+      "contentType": "image/png",
+      "bytes": 886513
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3962-3930-4761-b435-653631313335/3.png",
+      "local": "/mirror/a824583532067010.png",
+      "fileName": "a824583532067010.png",
+      "contentType": "image/png",
+      "bytes": 1619352
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3032-6261-4233-a263-613731383935/4.png",
+      "local": "/mirror/cc447a921567ef10.png",
+      "fileName": "cc447a921567ef10.png",
+      "contentType": "image/png",
+      "bytes": 996564
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3464-3935-4139-a538-653637353566/bf384a78888341dc95fc.png",
+      "local": "/mirror/bbbbf22bf24928dd.png",
+      "fileName": "bbbbf22bf24928dd.png",
+      "contentType": "image/png",
+      "bytes": 2020898
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3937-3065-4064-b161-316231663465/5.png",
+      "local": "/mirror/e8713752fe25fb3f.png",
+      "fileName": "e8713752fe25fb3f.png",
+      "contentType": "image/png",
+      "bytes": 1598460
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6238-6439-4761-b565-326161336232/fa5e4acdb96da710e2cd.png",
+      "local": "/mirror/9ce69cacc3ab0009.png",
+      "fileName": "9ce69cacc3ab0009.png",
+      "contentType": "image/png",
+      "bytes": 1888424
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3837-6366-4262-a665-396238376432/06.png",
+      "local": "/mirror/720b327b00eed41c.png",
+      "fileName": "720b327b00eed41c.png",
+      "contentType": "image/png",
+      "bytes": 319568
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6661-6235-4836-b762-376662393861/6.png",
+      "local": "/mirror/f400a010c0865f3d.png",
+      "fileName": "f400a010c0865f3d.png",
+      "contentType": "image/png",
+      "bytes": 2175244
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6534-3464-4465-b362-616261343130/7.png",
+      "local": "/mirror/56b59b805bf1dc15.png",
+      "fileName": "56b59b805bf1dc15.png",
+      "contentType": "image/png",
+      "bytes": 94237
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3931-6361-4132-b230-643037363761/8.png",
+      "local": "/mirror/e0ea1ec8ff7d9539.png",
+      "fileName": "e0ea1ec8ff7d9539.png",
+      "contentType": "image/png",
+      "bytes": 686661
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3737-3761-4730-a437-333532643330/9.png",
+      "local": "/mirror/d0a79829e6ea122e.png",
+      "fileName": "d0a79829e6ea122e.png",
+      "contentType": "image/png",
+      "bytes": 1607095
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3234-3264-4764-a437-383135333365/fc84d8e34478ba1b4ade.png",
+      "local": "/mirror/3ed41d8a03c2fad2.png",
+      "fileName": "3ed41d8a03c2fad2.png",
+      "contentType": "image/png",
+      "bytes": 957032
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6138-3334-4036-b231-643033353964/c58bd373ae5591725cbe.png",
+      "local": "/mirror/d188f5b262e58650.png",
+      "fileName": "d188f5b262e58650.png",
+      "contentType": "image/png",
+      "bytes": 229984
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3731-6136-4733-b562-366631316435/6edcc615f4799ec3400d.png",
+      "local": "/mirror/1cc5e3e58b254d2e.png",
+      "fileName": "1cc5e3e58b254d2e.png",
+      "contentType": "image/png",
+      "bytes": 626549
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3231-6230-4937-a538-363638323864/d8fbb758c851d262dddd.png",
+      "local": "/mirror/cd4a2dd6f2930f10.png",
+      "fileName": "cd4a2dd6f2930f10.png",
+      "contentType": "image/png",
+      "bytes": 225041
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3531-3866-4236-a436-356363346131/4b6282ba3d8d621d538d.png",
+      "local": "/mirror/980667bcb7277535.png",
+      "fileName": "980667bcb7277535.png",
+      "contentType": "image/png",
+      "bytes": 711533
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3137-6435-4331-b136-333464666537/10.png",
+      "local": "/mirror/5d1312a9867d305c.png",
+      "fileName": "5d1312a9867d305c.png",
+      "contentType": "image/png",
+      "bytes": 360264
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3762-3661-4063-b965-313561303033/11.png",
+      "local": "/mirror/aadbe241d67d6fbc.png",
+      "fileName": "aadbe241d67d6fbc.png",
+      "contentType": "image/png",
+      "bytes": 295254
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6332-6336-4665-a138-633238343662/ChatGPT_Image_30__20.png",
+      "local": "/mirror/6789865bebb46bdc.png",
+      "fileName": "6789865bebb46bdc.png",
+      "contentType": "image/png",
+      "bytes": 1906185
+    },
+    {
+      "url": "https://static.tildacdn.com/js/tilda-stat-1.0.min.js",
+      "local": "/mirror/9dde7ba1ebb5c62d.js",
+      "fileName": "9dde7ba1ebb5c62d.js",
+      "contentType": "application/javascript; charset=utf8",
+      "bytes": 9690
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3663-3265-4431-b031-383364623331/Geologica-Regular.woff",
+      "local": "/mirror/3020a4409df01d63.woff",
+      "fileName": "3020a4409df01d63.woff",
+      "contentType": "font/woff",
+      "bytes": 58756
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3632-3734-4461-b139-633336303433/Geologica-Medium.woff",
+      "local": "/mirror/49e05aaf6cf0a049.woff",
+      "fileName": "49e05aaf6cf0a049.woff",
+      "contentType": "font/woff",
+      "bytes": 58308
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3232-3263-4330-b330-633035666665/Geologica-SemiBold.woff",
+      "local": "/mirror/c503ff612780a376.woff",
+      "fileName": "c503ff612780a376.woff",
+      "contentType": "font/woff",
+      "bytes": 59080
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3038-6665-4566-a139-393437323262/Geologica-Bold.woff",
+      "local": "/mirror/1424b3c355a3162e.woff",
+      "fileName": "1424b3c355a3162e.woff",
+      "contentType": "font/woff",
+      "bytes": 58868
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3862-6365-4838-a439-333061663738/HelveticaNeueCyr-Rom.woff",
+      "local": "/mirror/a9c67ac030d0c623.woff",
+      "fileName": "a9c67ac030d0c623.woff",
+      "contentType": "font/woff",
+      "bytes": 58756
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2",
+      "local": "/mirror/ab6ccb2aa6900094.woff2",
+      "fileName": "ab6ccb2aa6900094.woff2",
+      "contentType": "font/woff2",
+      "bytes": 85380
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff",
+      "local": "/mirror/dbc3f6884e4442fe.woff",
+      "fileName": "dbc3f6884e4442fe.woff",
+      "contentType": "application/font-woff",
+      "bytes": 104368
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot",
+      "local": "/mirror/06d2f1a86a461a93.eot",
+      "fileName": "06d2f1a86a461a93.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 49016
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?",
+      "local": "/mirror/4491b5e0d7050bcb.eot",
+      "fileName": "4491b5e0d7050bcb.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 49016
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2",
+      "local": "/mirror/664ce4f2e1b270ff.woff2",
+      "fileName": "664ce4f2e1b270ff.woff2",
+      "contentType": "font/woff2",
+      "bytes": 40504
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff",
+      "local": "/mirror/584093df11caabbd.woff",
+      "fileName": "584093df11caabbd.woff",
+      "contentType": "application/font-woff",
+      "bytes": 54560
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot",
+      "local": "/mirror/d60787e6064de994.eot",
+      "fileName": "d60787e6064de994.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 46637
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?",
+      "local": "/mirror/95582dfc0e4ba337.eot",
+      "fileName": "95582dfc0e4ba337.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 46637
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2",
+      "local": "/mirror/424266a1d308fedc.woff2",
+      "fileName": "424266a1d308fedc.woff2",
+      "contentType": "font/woff2",
+      "bytes": 38392
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff",
+      "local": "/mirror/c34831ee9adba501.woff",
+      "fileName": "c34831ee9adba501.woff",
+      "contentType": "application/font-woff",
+      "bytes": 51744
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot",
+      "local": "/mirror/2332b57bbe942caa.eot",
+      "fileName": "2332b57bbe942caa.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 48060
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?",
+      "local": "/mirror/60be8849f4189e6c.eot",
+      "fileName": "60be8849f4189e6c.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 48060
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2",
+      "local": "/mirror/eb9708cf29392fe2.woff2",
+      "fileName": "eb9708cf29392fe2.woff2",
+      "contentType": "font/woff2",
+      "bytes": 39604
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff",
+      "local": "/mirror/1c7d7dcc2a5eed96.woff",
+      "fileName": "1c7d7dcc2a5eed96.woff",
+      "contentType": "application/font-woff",
+      "bytes": 53180
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot",
+      "local": "/mirror/42074abd5f48fd73.eot",
+      "fileName": "42074abd5f48fd73.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 48365
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?",
+      "local": "/mirror/10599d21f0cfb586.eot",
+      "fileName": "10599d21f0cfb586.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 48365
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2",
+      "local": "/mirror/d7fce76ceb1226ee.woff2",
+      "fileName": "d7fce76ceb1226ee.woff2",
+      "contentType": "font/woff2",
+      "bytes": 40012
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff",
+      "local": "/mirror/d1c0d52b781cd3f7.woff",
+      "fileName": "d1c0d52b781cd3f7.woff",
+      "contentType": "application/font-woff",
+      "bytes": 53428
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot",
+      "local": "/mirror/c697dd716256c4af.eot",
+      "fileName": "c697dd716256c4af.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 48618
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?",
+      "local": "/mirror/4e4e06389f6e7f3a.eot",
+      "fileName": "4e4e06389f6e7f3a.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 48618
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2",
+      "local": "/mirror/08d3e49e08491408.woff2",
+      "fileName": "08d3e49e08491408.woff2",
+      "contentType": "font/woff2",
+      "bytes": 40232
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff",
+      "local": "/mirror/16d2905aad473763.woff",
+      "fileName": "16d2905aad473763.woff",
+      "contentType": "application/font-woff",
+      "bytes": 53768
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot",
+      "local": "/mirror/1b0fa7f168e76526.eot",
+      "fileName": "1b0fa7f168e76526.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 48160
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?",
+      "local": "/mirror/7cb245614fde0689.eot",
+      "fileName": "7cb245614fde0689.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 48160
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2",
+      "local": "/mirror/3fa3b5c60b1b7898.woff2",
+      "fileName": "3fa3b5c60b1b7898.woff2",
+      "contentType": "font/woff2",
+      "bytes": 39792
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff",
+      "local": "/mirror/040275300ec86f92.woff",
+      "fileName": "040275300ec86f92.woff",
+      "contentType": "application/font-woff",
+      "bytes": 53396
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot",
+      "local": "/mirror/25b40743cc37f098.eot",
+      "fileName": "25b40743cc37f098.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 46534
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?",
+      "local": "/mirror/9ed3df6871049875.eot",
+      "fileName": "9ed3df6871049875.eot",
+      "contentType": "application/octet-stream",
+      "bytes": 46534
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2",
+      "local": "/mirror/22e9c5fad30abb36.woff2",
+      "fileName": "22e9c5fad30abb36.woff2",
+      "contentType": "font/woff2",
+      "bytes": 38988
+    },
+    {
+      "url": "https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff",
+      "local": "/mirror/8acdcf1c124c0a8f.woff",
+      "fileName": "8acdcf1c124c0a8f.woff",
+      "contentType": "application/font-woff",
+      "bytes": 51660
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3162-3963-4039-a633-333533336239/Rectangle_240654593_.png",
+      "local": "/mirror/1c6c0bb71baaeb83.png",
+      "fileName": "1c6c0bb71baaeb83.png",
+      "contentType": "image/png",
+      "bytes": 268296
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6134-3039-4432-b463-306162326464/Rectangle_240654592_.png",
+      "local": "/mirror/5087464221579283.png",
+      "fileName": "5087464221579283.png",
+      "contentType": "image/png",
+      "bytes": 262558
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3236-6634-4235-b939-343230393034/Rectangle_240654593_.png",
+      "local": "/mirror/1b45188723533563.png",
+      "fileName": "1b45188723533563.png",
+      "contentType": "image/png",
+      "bytes": 246843
+    },
+    {
+      "url": "https://static.tildacdn.com/tild6137-6464-4262-a231-613630323661/Rectangle_240654594_.png",
+      "local": "/mirror/dae017183da3a3a9.png",
+      "fileName": "dae017183da3a3a9.png",
+      "contentType": "image/png",
+      "bytes": 256744
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3064-3232-4730-b938-346632366265/Rectangle_240654593_.png",
+      "local": "/mirror/9f8db61cbdfa772e.png",
+      "fileName": "9f8db61cbdfa772e.png",
+      "contentType": "image/png",
+      "bytes": 247001
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3636-6133-4934-b361-616530643366/Rectangle_240654594_.png",
+      "local": "/mirror/a66134519590a688.png",
+      "fileName": "a66134519590a688.png",
+      "contentType": "image/png",
+      "bytes": 257873
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3036-6361-4630-b438-386532336435/Rectangle_240654595.png",
+      "local": "/mirror/685afcc0909fb128.png",
+      "fileName": "685afcc0909fb128.png",
+      "contentType": "image/png",
+      "bytes": 256064
+    },
+    {
+      "url": "https://static.tildacdn.com/tild3937-3935-4263-a435-336636643361/Rectangle_240654594_.png",
+      "local": "/mirror/3ac60ef844364fee.png",
+      "fileName": "3ac60ef844364fee.png",
+      "contentType": "image/png",
+      "bytes": 274011
+    },
+    {
+      "url": "https://es-clinic.ru/custom.css?t=1788788938",
+      "local": "/mirror/71aa59bd4f5cc0ae.css",
+      "fileName": "71aa59bd4f5cc0ae.css",
+      "contentType": "text/css",
+      "bytes": 80
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/3020a4409df01d63.woff",
+      "local": "/mirror/60e62dfe15309b8e.woff",
+      "fileName": "60e62dfe15309b8e.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/49e05aaf6cf0a049.woff",
+      "local": "/mirror/297792cda8952916.woff",
+      "fileName": "297792cda8952916.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/c503ff612780a376.woff",
+      "local": "/mirror/bdcb63eaf083a1fb.woff",
+      "fileName": "bdcb63eaf083a1fb.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/1424b3c355a3162e.woff",
+      "local": "/mirror/246f65cc59ba8719.woff",
+      "fileName": "246f65cc59ba8719.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/d87ad291362ed023.woff",
+      "local": "/mirror/9de00f2a0c254c09.woff",
+      "fileName": "9de00f2a0c254c09.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/a9c67ac030d0c623.woff",
+      "local": "/mirror/06334ad46172dc34.woff",
+      "fileName": "06334ad46172dc34.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/ab6ccb2aa6900094.woff2",
+      "local": "/mirror/4fae6fa69eb8ddf9.woff2",
+      "fileName": "4fae6fa69eb8ddf9.woff2",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/dbc3f6884e4442fe.woff",
+      "local": "/mirror/26b74cc14dff0469.woff",
+      "fileName": "26b74cc14dff0469.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/06d2f1a86a461a93.eot",
+      "local": "/mirror/10d251271c11b40c.eot",
+      "fileName": "10d251271c11b40c.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/4491b5e0d7050bcb.eot",
+      "local": "/mirror/f584929cd546f47f.eot",
+      "fileName": "f584929cd546f47f.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/664ce4f2e1b270ff.woff2",
+      "local": "/mirror/41db2a970e6b6f1f.woff2",
+      "fileName": "41db2a970e6b6f1f.woff2",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/584093df11caabbd.woff",
+      "local": "/mirror/5048dca393d4ba6a.woff",
+      "fileName": "5048dca393d4ba6a.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/d60787e6064de994.eot",
+      "local": "/mirror/adb413206c42804f.eot",
+      "fileName": "adb413206c42804f.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/95582dfc0e4ba337.eot",
+      "local": "/mirror/eda0d8b3275bc63d.eot",
+      "fileName": "eda0d8b3275bc63d.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/424266a1d308fedc.woff2",
+      "local": "/mirror/211b0b94f4a30b21.woff2",
+      "fileName": "211b0b94f4a30b21.woff2",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/c34831ee9adba501.woff",
+      "local": "/mirror/c6975d729797e389.woff",
+      "fileName": "c6975d729797e389.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/2332b57bbe942caa.eot",
+      "local": "/mirror/32f54150ce5b732d.eot",
+      "fileName": "32f54150ce5b732d.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/60be8849f4189e6c.eot",
+      "local": "/mirror/7fb4dbce5b34daff.eot",
+      "fileName": "7fb4dbce5b34daff.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/eb9708cf29392fe2.woff2",
+      "local": "/mirror/b58fbed635c2a462.woff2",
+      "fileName": "b58fbed635c2a462.woff2",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/1c7d7dcc2a5eed96.woff",
+      "local": "/mirror/42b6688102f726af.woff",
+      "fileName": "42b6688102f726af.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/42074abd5f48fd73.eot",
+      "local": "/mirror/4f2023dcf60a4cc2.eot",
+      "fileName": "4f2023dcf60a4cc2.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/10599d21f0cfb586.eot",
+      "local": "/mirror/d18e542fa8b184af.eot",
+      "fileName": "d18e542fa8b184af.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/d7fce76ceb1226ee.woff2",
+      "local": "/mirror/1b8feef6b153895c.woff2",
+      "fileName": "1b8feef6b153895c.woff2",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/d1c0d52b781cd3f7.woff",
+      "local": "/mirror/b70cebf1b06581a5.woff",
+      "fileName": "b70cebf1b06581a5.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/c697dd716256c4af.eot",
+      "local": "/mirror/fd6e20798e63cdf0.eot",
+      "fileName": "fd6e20798e63cdf0.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/4e4e06389f6e7f3a.eot",
+      "local": "/mirror/cdf879030c13284d.eot",
+      "fileName": "cdf879030c13284d.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/08d3e49e08491408.woff2",
+      "local": "/mirror/0f1a96a804fc3a2c.woff2",
+      "fileName": "0f1a96a804fc3a2c.woff2",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/16d2905aad473763.woff",
+      "local": "/mirror/78ab5af3d24775fd.woff",
+      "fileName": "78ab5af3d24775fd.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/1b0fa7f168e76526.eot",
+      "local": "/mirror/9bbe7eb159c116cc.eot",
+      "fileName": "9bbe7eb159c116cc.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/7cb245614fde0689.eot",
+      "local": "/mirror/950e082d090455da.eot",
+      "fileName": "950e082d090455da.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/3fa3b5c60b1b7898.woff2",
+      "local": "/mirror/0ac7f2d36c0e8e89.woff2",
+      "fileName": "0ac7f2d36c0e8e89.woff2",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/040275300ec86f92.woff",
+      "local": "/mirror/ca63309ef698cd60.woff",
+      "fileName": "ca63309ef698cd60.woff",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/25b40743cc37f098.eot",
+      "local": "/mirror/a9eaf9529aae1afe.eot",
+      "fileName": "a9eaf9529aae1afe.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/9ed3df6871049875.eot",
+      "local": "/mirror/c5465513c3b5e8b1.eot",
+      "fileName": "c5465513c3b5e8b1.eot",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/22e9c5fad30abb36.woff2",
+      "local": "/mirror/bc38cd8bf110a6a6.woff2",
+      "fileName": "bc38cd8bf110a6a6.woff2",
+      "contentType": "",
+      "bytes": 0
+    },
+    {
+      "url": "https://static.tildacdn.com/mirror/8acdcf1c124c0a8f.woff",
+      "local": "/mirror/16714bb8b0d179bb.woff",
+      "fileName": "16714bb8b0d179bb.woff",
+      "contentType": "",
+      "bytes": 0
+    }
+  ]
+}

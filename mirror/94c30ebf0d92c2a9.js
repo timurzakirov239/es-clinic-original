@@ -1,0 +1,5 @@
+function t678_onSuccess(form){t_onFuncLoad('t_forms__onSuccess',function(){t_forms__onSuccess(form)})}
+function t886_init(recid){var rec=document.querySelector('#rec'+recid);if(!rec)return;var notificationBlock=rec.querySelector('.t886');var closeButton=rec.querySelector('.t886__btn');var storageItem=notificationBlock.getAttribute('data-storage-item');var lastOpen;try{lastOpen=localStorage.getItem(storageItem)}catch(error){console.log('Your web browser does not support localStorage. Error status: ',error)}
+if(!lastOpen){notificationBlock.classList.remove('t886_closed')}
+if(closeButton){closeButton.addEventListener('click',function(event){notificationBlock.classList.add('t886_closed');try{localStorage.setItem(storageItem,Math.floor(Date.now()/1000))}catch(error){console.log('Your web browser does not support localStorage. Error status: ',error)}
+event.preventDefault()})}}

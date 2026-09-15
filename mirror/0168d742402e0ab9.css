@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 250 1000;
+  src: url('/mirror/4fae6fa69eb8ddf9.woff2') format('woff2-variations'),
+       url('/mirror/26b74cc14dff0469.woff') format('woff-variations');     
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('/mirror/10d251271c11b40c.eot');
+  src: url('/mirror/f584929cd546f47f.eot#iefix') format('embedded-opentype'),
+       url('/mirror/4fae6fa69eb8ddf9.woff2') format('woff2-variations'),
+       url('/mirror/26b74cc14dff0469.woff') format('woff-variations'),
+       url('/mirror/41db2a970e6b6f1f.woff2') format('woff2'),
+       url('/mirror/5048dca393d4ba6a.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/mirror/adb413206c42804f.eot');
+  src: url('/mirror/eda0d8b3275bc63d.eot#iefix') format('embedded-opentype'),
+       url('/mirror/4fae6fa69eb8ddf9.woff2') format('woff2-variations'),
+       url('/mirror/26b74cc14dff0469.woff') format('woff-variations'),  
+       url('/mirror/211b0b94f4a30b21.woff2') format('woff2'),
+       url('/mirror/c6975d729797e389.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/mirror/32f54150ce5b732d.eot');
+  src: url('/mirror/7fb4dbce5b34daff.eot#iefix') format('embedded-opentype'),
+       url('/mirror/4fae6fa69eb8ddf9.woff2') format('woff2-variations'),
+       url('/mirror/26b74cc14dff0469.woff') format('woff-variations'),  
+       url('/mirror/b58fbed635c2a462.woff2') format('woff2'),
+       url('/mirror/42b6688102f726af.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('/mirror/4f2023dcf60a4cc2.eot');
+  src: url('/mirror/d18e542fa8b184af.eot#iefix') format('embedded-opentype'),
+       url('/mirror/4fae6fa69eb8ddf9.woff2') format('woff2-variations'),
+       url('/mirror/26b74cc14dff0469.woff') format('woff-variations'),  
+       url('/mirror/1b8feef6b153895c.woff2') format('woff2'),
+       url('/mirror/b70cebf1b06581a5.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/mirror/fd6e20798e63cdf0.eot');
+  src: url('/mirror/cdf879030c13284d.eot#iefix') format('embedded-opentype'),
+       url('/mirror/4fae6fa69eb8ddf9.woff2') format('woff2-variations'),
+       url('/mirror/26b74cc14dff0469.woff') format('woff-variations'),  
+       url('/mirror/0f1a96a804fc3a2c.woff2') format('woff2'),
+       url('/mirror/78ab5af3d24775fd.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('/mirror/9bbe7eb159c116cc.eot');
+  src: url('/mirror/950e082d090455da.eot#iefix') format('embedded-opentype'),
+       url('/mirror/4fae6fa69eb8ddf9.woff2') format('woff2-variations'),
+       url('/mirror/26b74cc14dff0469.woff') format('woff-variations'),  
+       url('/mirror/0ac7f2d36c0e8e89.woff2') format('woff2'),
+       url('/mirror/ca63309ef698cd60.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 900;
+  src: url('/mirror/a9eaf9529aae1afe.eot');
+  src: url('/mirror/c5465513c3b5e8b1.eot#iefix') format('embedded-opentype'),
+       url('/mirror/4fae6fa69eb8ddf9.woff2') format('woff2-variations'),
+       url('/mirror/26b74cc14dff0469.woff') format('woff-variations'),  
+       url('/mirror/bc38cd8bf110a6a6.woff2') format('woff2'),
+       url('/mirror/16714bb8b0d179bb.woff') format('woff');
+}
